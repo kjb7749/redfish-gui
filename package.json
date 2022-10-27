@@ -1,0 +1,16 @@
+{
+  "name": "redfish-gui",
+  "version": "1.0.0",
+  "description": "redfish gui tool",
+  "main": "main.js",
+  "repository": "https://github.com/kjb7749/redfish-gui.git",
+  "author": "Junbyeong Yoon",
+  "license": "GPT2.0",
+  "dependencies": {
+    "electron": "^21.2.0",
+    "node": "^19.0.0"
+  },
+  "scripts": {
+	  "start": "electron ."
+  }
+}
